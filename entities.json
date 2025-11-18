@@ -2,26 +2,16 @@
     {
         "logo": "superpayments.svg",
         "link": "https://www.superpayments.com",
-        "text": "If you are doing anything that requires a ledger or anything in the fintech space, take a look at TigerBeetle."
+        "text": "Super Payments is on a mission to offer free payments to business in the UK. Transactions feed all reporting and settlement processes, and in 2024, in pursuit of safety and performance, Super migrated to TigerBeetle to ensure financial consistency, increase internal confidence, and handle throughput and transactions per second requirements for the decade to come."
     },
     {
         "logo": "triplezip.svg",
         "link": "https://www.triplezip.ai",
-        "text": "Truly the easiest part of our stack to set up, which is impressive given that it's our financial ledger."
+        "text": "TripleZip is a commercial tenant portal, the easiest way to collect rent online for commercial properties. Implementing TigerBeetle to power TripleZip’s ledger—which tracks tenants, property managers, and payments—took just two days. The team rests easy on TigerBeetle’s extreme engineering, strict consistency, and reliability guarantees."
     },
     {
         "logo": "pesawise.svg",
         "link": "https://pesawise.com",
-        "text": "TigerBeetle is now our source of truth, and the banks and whatever else we're matching against are secondary."
+        "text": "Pesawise is an all-in-one platform for business payments in Kenya. TigerBeetle was adopted to solve month-end performance issues that were slowing the system down, impacting customers. The migration of millions of historical transactions was completed successfully in a weekend, and TigerBeetle is now the system of record."
     },
-    {
-        "logo": "triple-a.svg",
-        "link": "https://www.triple-a.io",
-        "text": "The structural constraints of TigerBeetle mean we know exactly what everything should be doing. It’s not possible to drop a constraint."
-    },
-    {
-        "logo": "shopwallet.svg",
-        "link": "https://shopwallet.ng",
-        "text": "Payments platforms degrade when the ledger is an afterthought. TigerBeetle’s architecture treats the ledger as the CPU-hot, consensus-aware center of your system—not another table in a general database. For a digital-first fintech like ShopWallet, that means higher throughput on fewer machines, stronger guarantees under failure, and cleaner product patterns (authorise/post/void, FX, caps) that ship faster and scale cleaner. In a world chasing LLM gloss, this is the quiet infrastructure that actually moves money."
-    }
 ]
