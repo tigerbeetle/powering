@@ -13,5 +13,20 @@
         "logo": "pesawise.svg",
         "link": "https://pesawise.com",
         "text": "Pesawise is an all-in-one platform for business payments in Kenya. TigerBeetle was adopted to solve month-end performance issues that were slowing the system down, impacting customers. The migration of millions of historical transactions was completed successfully in a weekend, and TigerBeetle is now the system of record."
+    },
+    {
+        "logo": "Thndr.svg",
+        "link": "https://thndr.app",
+        "text": "Thndr is Egypt's # 1 investing app, the easiest wat to invest in stocks, gold and mutual funds, with a vision to democratise investment in the MENA region. During a revamp of the order management system, TigerBeetle was selected to power the company’s general ledger, to ensure all journals are under one unified system, and handle all money movements related to clients’ trading accounts – including deposits, withdrawals, and invoices."
+    },
+     {
+        "logo": "wallet guru.svg",
+        "link": "https://www.walletguru.com",
+        "text": "Wallet Guru is a streaming payments platform that lets you manage how your viewing credits are used across compatible streaming platforms. Users can stream money as they watch, read, or connect by the minute, paragraph, or megabyte – powered by TigerBeetle."
+    },
+    {
+        "logo": "Okto - Color.svg",
+        "link": "https:///www.oktopayments.com",
+        "text": "OKTO is trusted by businesses like TrueLayer, ePay and Euronet to create immersive fintech solutions for both consumers and businesses, allowing fast, easy and secure payments, in-store, online and on the move. Migrating their ledger to TigerBeetle at the end of 2024 unlocked critical OLTP performance, and correctness, in realtime."
     }
 ]
