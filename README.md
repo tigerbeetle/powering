@@ -2,9 +2,9 @@
 
 To appear on https://tigerbeetle.com/stories/#powering, add yourself to entities.json and place your logo in the logos directory.
 
-Note that your logo will appear on a dark background, so it should ideally have light colors and a transparent background.
+Note that your logo will appear on a dark background, so it should ideally have light colors and a transparent background. 
 
-In the text you can tell the reader who your organization is, what your mission is, and how you use TigerBeetle.
+In the text, tell the reader about your organization and how you use TigerBeetle.
 
 Finally, submit your pull request!
 
