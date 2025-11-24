@@ -23,10 +23,5 @@
         "logo": "walletguru.svg",
         "link": "https://www.walletguru.com",
         "text": "Wallet Guru is a streaming payments platform that lets you manage how your viewing credits are used across compatible streaming platforms. Users can stream money as they watch, read, or connect by the minute, paragraph, or megabyte – powered by TigerBeetle."
-    },
-    {
-        "logo": "okto.svg",
-        "link": "https:///www.oktopayments.com",
-        "text": "OKTO is trusted by businesses like TrueLayer, ePay and Euronet to create immersive fintech solutions for both consumers and businesses, allowing fast, easy and secure payments, in-store, online and on the move. Migrating their ledger to TigerBeetle at the end of 2024 unlocked critical OLTP performance, and correctness, in realtime."
     }
 ]
