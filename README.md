@@ -6,7 +6,7 @@ Note that your logo will appear on a dark background, so it should ideally have 
 
 In the text, tell the reader about your organization and how you use TigerBeetle.
 
-Finally, submit your pull request!
+Finally, fork this repository and submit your pull request!
 
 ## Previewing
 
