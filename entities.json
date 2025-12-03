@@ -23,5 +23,10 @@
         "logo": "walletguru.svg",
         "link": "https://www.walletguru.com",
         "text": "Wallet Guru is a real-time payment platform that enables subscription-free digital services by allowing users to pay as they watch, read, or connect — per minute, per paragraph, or per megabyte. Powered by TigerBeetle, Wallet Guru brings true on-demand payments to streaming platforms and digital services, ushering in a new era where money moves at the speed of consumption."
+    },
+    {
+        "logo": "fynbos_light.svg",
+        "link": "https://fynbos.money/",
+        "text": "Fynbos is making long-term investing simpler for South Africans — from tax-free investments and emergency savings to kids and investment accounts with access to 100+ local and international funds. Powered by TigerBeetle, Fynbos offers paperless onboarding and a simplified experience designed to empower users to take control of their money, safely and securely."
     }
 ]
